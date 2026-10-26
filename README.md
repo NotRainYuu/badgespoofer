@@ -1,5 +1,7 @@
 # BadgeSpoofer
 
+# ReadMe.md is generate by gemini
+
 > A lightweight, asynchronous-style Discord Science & Analytics Spoofer for game activity, playtime hours, and profile badges.
 
 ---
