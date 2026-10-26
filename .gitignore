@@ -1,0 +1,18 @@
+# Discord Auth & State files (never commit tokens)
+science_state.json
+config.json
+games.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Environment files
+.env
+.env.*
